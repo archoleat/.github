@@ -16,6 +16,7 @@
 - [Semantic Release Define Config](https://github.com/archoleat/semantic-release-define-config);
 - [Prettier Define Config](https://github.com/archoleat/prettier-define-config);
 - [Next Define Config](https://github.com/archoleat/next-define-config);
+- [Slugger](https://github.com/archoleat/slugger);
 
 ## Repositories
 
@@ -23,7 +24,6 @@
 
 ## Other
 
-- [.helpers](https://github.com/archoleat/.helpers);
 - [.github](https://github.com/archoleat/.github);
 
 ## Contributing
