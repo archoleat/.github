@@ -1,30 +1,14 @@
-# Archoleat Science
+[![Archoleat Science](./assets/label.jpg)](https://github.com/archoleat/.github/blob/main/README.md)
 
-## Table of Content
+Welcome to **Archoleat Science**!
+Our organization is dedicated to transforming workflows through creativity
+and innovation. We strive to create, automate, experiment, standardize, test,
+and simplify processes to foster efficiency
+and effectiveness in various domains.
 
-- [Plugins](#plugins);
-- [Repositories](#repositories);
-- [Other](#other);
+Thank you for visiting **Archoleat Science**!
+Together, let's redefine what’s possible in workflow innovation.
 
-## Plugins
-
-- [Stylelint Config Extended SCSS](https://github.com/archoleat/stylelint-config-extended-scss);
-- [Reglib](https://github.com/archoleat/reglib);
-- [Notifier](https://github.com/archoleat/notifier);
-- [Validate Font File Name](https://github.com/archoleat/validate-font-file-name);
-- [Commitlint Define Config](https://github.com/archoleat/commitlint-define-config);
-- [Semantic Release Define Config](https://github.com/archoleat/semantic-release-define-config);
-- [Prettier Define Config](https://github.com/archoleat/prettier-define-config);
-- [Next Define Config](https://github.com/archoleat/next-define-config);
-- [Slugger](https://github.com/archoleat/slugger);
-
-## Repositories
-
-- [Repo Template](https://github.com/archoleat/repo-template);
-
-## Other
-
-- [.github](https://github.com/archoleat/.github);
 
 ## Contributing
 
