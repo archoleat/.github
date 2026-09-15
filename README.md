@@ -9,7 +9,6 @@ and effectiveness in various domains.
 Thank you for visiting **Archoleat Science**!
 Together, let's redefine what’s possible in workflow innovation.
 
-
 ## Contributing
 
 Please read [**CONTRIBUTING**](CONTRIBUTING.md) to start contributing.
