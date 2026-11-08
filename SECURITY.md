@@ -5,8 +5,9 @@ please let us know as described below.
 
 ## Reporting Security Issues
 
-**Please report security vulnerabilities via
-Public GitHub Issues using the `Report Security Vulnerability`**.
+Report vulnerabilities privately through the affected repository's
+**Security → Advisories → Report a vulnerability** page.
+Do not disclose vulnerability details in public Issues or pull requests.
 
 Please provide the requested information below (as much as you can provide)
 to help us better understand the nature and extent of the potential **Issue**:
