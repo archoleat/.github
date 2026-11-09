@@ -6,11 +6,17 @@ on:
       - main
     paths:
       - '**/*.md'
+      - 'package.json'
+      - 'patches/**'
+      - 'specs/dependency-security.mjs'
   push:
     branches:
       - main
     paths:
       - '**/*.md'
+      - 'package.json'
+      - 'patches/**'
+      - 'specs/dependency-security.mjs'
 
 permissions:
   contents: read
@@ -31,6 +37,9 @@ jobs:
 
       - name: Install Dependencies
         run: bun ci
+
+      - name: Verify Dependency Backports
+        run: node specs/dependency-security.mjs
 
       - name: Lint
         run: bun remark . --quiet --frail
