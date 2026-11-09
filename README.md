@@ -1,18 +1,21 @@
-[![Archoleat Science](./assets/label.jpg)](https://github.com/archoleat/.github/blob/main/README.md)
+# Archoleat community files
 
-Welcome to **Archoleat Science**!
-Our organization is dedicated to transforming workflows through creativity
-and innovation. We strive to create, automate, experiment, standardize, test,
-and simplify processes to foster efficiency
-and effectiveness in various domains.
+Shared contribution guidelines, pull request template, code of conduct,
+and security policy for Archoleat repositories.
 
-Thank you for visiting **Archoleat Science**!
-Together, let's redefine what’s possible in workflow innovation.
+For libraries and project templates, see the
+[organization profile](https://github.com/archoleat).
 
 ## Contributing
 
-Please read [**CONTRIBUTING**](CONTRIBUTING.md) to start contributing.
+Read the [contribution guide](CONTRIBUTING.md) and
+[code of conduct](CODE_OF_CONDUCT.md) before opening an issue or pull request.
+
+## Security
+
+Follow the [security policy](SECURITY.md) to report vulnerabilities privately
+in the affected repository.
 
 ## License
 
-This project is licensed under the [**MIT license**](LICENSE).
+[MIT](LICENSE).
