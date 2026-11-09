@@ -17,13 +17,17 @@ the existing **issues** to see if your concern has already been reported
 or addressed.
 This helps us manage issues more effectively and avoids duplicate reports.
 
-## Title Format for Pull Requests and Issues
+## Pull Request Titles
 
-To maintain clarity and consistency, please ensure that the title
-of your **Pull Request** or issue meets the conventional commits standard.
+Use Conventional Commits for pull request titles. Release automation reads
+these titles when pull requests are squash-merged.
+
+Issue titles do not need a prefix. Describe the problem or request in plain
+language so people can find and understand it.
 
 A proper title should be in the format: `<type>[optional scope]: <description>`
-  > Example: `feat(ui): add dark mode toggle`
+
+> Example: `feat(ui): add dark mode toggle`
 
 ## Reporting Bugs
 
